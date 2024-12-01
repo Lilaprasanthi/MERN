@@ -26,7 +26,7 @@ seamlessly.
 Home page:
 ![Screenshot (17)](https://github.com/user-attachments/assets/9779feb8-06d2-440b-b1dc-7868235ca833)
 ![Screenshot (18)](https://github.com/user-attachments/assets/8e47baa7-d8f6-4741-8239-d0b0b9f5a36d)
-Property details page:
+Properties page:
 ![Uploading Screenshot (20).png…]()
 
 ![Screenshot (19)](https://github.com/user-attachments/assets/f8e4d01b-806b-4339-ae21-60ee2becd198)
