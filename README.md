@@ -26,9 +26,8 @@ seamlessly.
 Home page:
 ![Screenshot (17)](https://github.com/user-attachments/assets/9779feb8-06d2-440b-b1dc-7868235ca833)
 ![Screenshot (18)](https://github.com/user-attachments/assets/8e47baa7-d8f6-4741-8239-d0b0b9f5a36d)
-Properties page:
-![Uploading Screenshot (20).png…]()
-
+Property details page:
+![Screenshot (20)](https://github.com/user-attachments/assets/2b469402-6317-47c6-b666-6c7390d34ef3)
 ![Screenshot (19)](https://github.com/user-attachments/assets/f8e4d01b-806b-4339-ae21-60ee2becd198)
 Booking form:
 ![Screenshot (21)](https://github.com/user-attachments/assets/bbc2adde-beb4-426d-aa70-e35150f8307c)
